@@ -20,6 +20,10 @@ Quantum computing is often touted for its potential to solve complex problems mo
 - **Classical Computing Tools**: Python, Scikit-learn
 - **Datasets**: UCI ML Breast Cancer Wisconsin (Diagnostic), UCI ML Wine Dataset
 
+## Presentation
+
+<iframe src="https://drive.google.com/file/d/1GMWgnAM39eY91mODDHruNFmRQNmq00z9/view?usp=sharing" width="720" height="405" frameborder="0" scrolling="no"></iframe>
+
 ## Structure of the Project
 
 1. **Introduction**: Background on quantum computing and its potential in machine learning.
