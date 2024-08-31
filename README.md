@@ -61,3 +61,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://example.com)
 - [Supervised Learning with Quantum Enhanced Feature Spaces](https://example.com)
+- [Quantum convolutional neural networks](https://arxiv.org/abs/1810.03787), Authors: Iris Cong, Soonwon Choi, and Mikhail D. Lukin.
+- [Training an Artificial Neural Network Using Qubits as Artificial Neurons: A Quantum Computing Approach](https://arxiv.org/abs/2001.04449), Authors: Avinash Chalumuria, Raghavendra Kuneb, B. S. Manoja.
+- [Quantum Parallelism](https://www.sciencedirect.com/topics/engineering/quantum-parallelism), ScienceDirect.
+- [Machine Learning on Encrypted Data](https://www.ericsson.com/en/blog/2021/9/machine-learning-on-encrypted-data), Ericsson.
+- [Quantum of Encryption](https://www.hpe.com/us/en/insights/articles/quantum-of-encryption-1707.html), Hewlett Packard Enterprise.
+- [How May Quantum Computing Benefit Machine Learning](https://towardsdatascience.com/how-may-quantum-computing-benefit-machine-learning-c96de0bef0d4), Towards Data Science.
+- [Quantum Computing Parallelism](https://blogs.iu.edu/sciu/2019/07/13/quantum-computing-parallelism/), Indiana University Blogs.
+- [Supervised Learning with Quantum Enhanced Feature Spaces](https://arxiv.org/abs/1802.06002), arXiv.
+- [Single Qubit Gates](https://learn.qiskit.org/course/ch-states/single-qubit-gates#cnot), Qiskit Learning.
+- [Quantum Neural Networks](https://www.ibm.com/blogs/research/2020/06/quantum-neural-networks/), IBM Research.
+- [TensorFlow Beginner Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner), TensorFlow.
+- [Exploring the Capabilities of Quantum Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016555&tag=1), IEEE Xplore.
+
