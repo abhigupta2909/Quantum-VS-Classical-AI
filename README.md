@@ -49,9 +49,12 @@ To reproduce the experiments in this project, you will need to set up the follow
 
 To run the experiments, execute the Jupyter notebooks provided in the `notebooks` directory. Ensure that you have configured your IBM Quantum Experience API token for accessing quantum resources.
 
-## Contributions
+## QML Model
+![Model Training Details](https://github.com/user-attachments/assets/6ac1cc08-7e3a-433b-8e66-4bc930e7c10a)
 
-This project was conducted by Christopher Havenstein, Damarcus Thomas, and Swami Chandrasekaran as part of their research at Southern Methodist University.
+
+## Findings
+![Fig: Final Analysis](https://github.com/user-attachments/assets/dce69065-d277-4b7b-a5aa-018e86862fed)
 
 ## License
 
