@@ -22,7 +22,7 @@ Quantum computing is often touted for its potential to solve complex problems mo
 
 ## Presentation
 
-[View the Presentation](https://drive.google.com/file/d/1GMWgnAM39eY91mODDHruNFmRQNmg0Oz9/view?usp=sharing)
+[View the Presentation](https://drive.google.com/file/d/1GMWgnAM39eY91mODDHruNFmRQNmq00z9/view?usp=sharing)
 
 
 ## Structure of the Project
